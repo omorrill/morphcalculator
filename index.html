@@ -12,8 +12,23 @@
 <body>
 	<h1>Ball Python Polymorph Calculator</h1>
 	<div id="app">
-		<p>{{morphs}}</p>
+	
+		<label for="dam">Dam</label>
+		<select multiple id="dam" v-model="dam">
+			<option v-for="morph in morphs">{{morph.name}}</option>
+		</select>
+	
+		<label for="sire">Sire</label>
+		<select multiple id="sire" v-model="sire">
+			<option v-for="morph in morphs">{{morph.name}}</option>
+		</select>
+	<br>
+	
+	<button id="calculateMorph" @click="clutch">Calculate Morph</button>
+		
+		<h2>{{marry}}</h2>
 	</div>
+	
 	<script type="text/javascript" src="src/main.js"></script>
 </body>
 </html
