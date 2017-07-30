@@ -10,29 +10,14 @@ let vm = new Vue({
 	  methods: {
 		getMorphs: function() {
 		  let that = this;
-		  let request = new XMLHttpRequest();
-		  request.open('GET', apiURL, true);
-
-		  request.onload = function() {
-			if (request.status >= 200 && request.status < 400) {
-			  // Success!
-			  that.morphs = JSON.parse(request.responseText);
-			} else {
-			  // We reached our target server, but it returned an error
-			}
-		  };
-
-		  request.send();
+		  $.getJSON( "src/data.json", function( data ) {
+			that.morphs = data;
+			console.log(data);
+		  });
 		},
 		clutch() {
 			let dam = this.dam;
 			let sire = this.sire;
-			
-			if (damArr == "res") {
-				console.log('res');
-			} else {
-				console.log(sireArr);
-			}
 			
 			console.log(dam + ' with ' + sire);
 		}
