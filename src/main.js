@@ -1,11 +1,13 @@
 var apiURL = './src/data.json';
-	
+
 let vm = new Vue({
 	el: '#app',
 	data: {
 		dam: [],
 		sire: [],
-		morphs: []
+		morphs: [],
+		damgene: [],
+		siregene: []
 	  },
 	  methods: {
 		getMorphs: function() {
@@ -18,7 +20,10 @@ let vm = new Vue({
 		clutch() {
 			let dam = this.dam;
 			let sire = this.sire;
-			
+		
+			let damgene = this.damgene;
+			let siregene = this.siregene;
+
 			console.log(dam + ' with ' + sire);
 		}
 	  },
@@ -34,5 +39,3 @@ let vm = new Vue({
 		this.getMorphs()
 	  }
 });
-	
-	
