@@ -1,0 +1,14 @@
+{
+    "Acid": {
+        "name": "Acid",
+        "gene": "het"
+    },
+    "Albino": {
+        "name": "Albino",
+				"gene": "recessive"
+    },
+    "Normal": {
+        "name": "Normal",
+				"gene": "dominant"
+    }
+}

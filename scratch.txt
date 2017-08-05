@@ -1,0 +1,42 @@
+
+<div class="form-group">
+  <fieldset class="form-group" id="sire-gene" v-model="siregene">
+    <legend>Sire Genetics</legend>
+    <div class="form-check">
+      <label class="form-check-label">
+        <input type="radio" class="form-check-input" name="sire-gene" id="optionsRadios1" value="option1">
+        Dominant
+      </label>
+    </div>
+    <div class="form-check">
+    <label class="form-check-label">
+        <input type="radio" class="form-check-input" name="sire-gene" id="optionsRadios2" value="option2">
+        Incomplete Dominant
+      </label>
+    </div>
+    <div class="form-check">
+    <label class="form-check-label">
+        <input type="radio" class="form-check-input" name="sire-gene" id="optionsRadios3" value="option3">
+        Recessive
+      </label>
+    </div>
+    <div class="form-check">
+    <label class="form-check-label">
+        <input type="radio" class="form-check-input" name="sire-gene" id="optionsRadios4" value="option4">
+        Super
+      </label>
+    </div>
+    <div class="form-check">
+    <label class="form-check-label">
+        <input type="radio" class="form-check-input" name="sire-gene" id="optionsRadios5" value="option5">
+        66% Het
+      </label>
+    </div>
+    <div class="form-check">
+    <label class="form-check-label">
+        <input type="radio" class="form-check-input" name="sire-gene" id="optionsRadios6" value="option6">
+        Possible Het
+      </label>
+    </div>
+  </fieldset>
+</div>s

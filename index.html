@@ -21,57 +21,29 @@
 			<div id="damwrap" class="col-xs-6 form-group">
 				<legend>Dam</legend>
 				<div class="form-group">
-					<select class="form-control" multiple id="dam" v-model="dam">
-						<option v-for="morph in morphs">{{morph.name}}</option>
+					<select class="form-control" multiple id="dam" v-model="dam" size="12">
+						<option v-for="morph in morphs" :value="morph">{{morph.name}} ({{morph.gene}})</option>
 					</select>
-				</div>
-				<div class="form-group">
-					<fieldset class="form-group" id="dam-gene" v-model="damgene">
-				    <legend>Dam Genetics</legend>
-				    <div class="form-check">
-				      <label class="form-check-label">
-				        <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios1" value="option1">
-				        Dominant
-				      </label>
-				    </div>
-				    <div class="form-check">
-				    <label class="form-check-label">
-				        <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios2" value="option2">
-				        Incomplete Dominant
-				      </label>
-				    </div>
-				    <div class="form-check disabled">
-				    <label class="form-check-label">
-				        <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios3" value="option3" disabled>
-				        Recessive
-				      </label>
-				    </div>
-				  </fieldset>
 				</div>
 			</div>
 			<div id="sirewrap" class="col-xs-6 form-group">
-				<h3 for="sire">Sire</h3>
-				<select class="form-control col-sm-12" multiple id="sire" v-model="sire">
-					<option v-for="morph in morphs">{{morph.name}}</option>
-				</select>
+				<legend>Sire</legend>
 				<div class="form-group">
-					<label for="sire-gene">Sire Genetics</label>
-					<select class="form-control col-sm-12" multiple id="sire-gene" v-model="siregene">
-						<option>Dominant</option>
-						<option>Partially Dominant</option>
-						<option>Recessive</option>
-						<option>Super</option>
-						<option>100% Heterozygous</option>
-						<option>66% Heterozygous</option>
-						<option>50% Heterozygous</option>
+					<select class="form-control" multiple id="sire" v-model="sire" size="12">
+						<option v-for="morph in morphs" :value="morph">{{morph.name}} ({{morph.gene}})</option>
 					</select>
+				</div>
+			</div>
+			<div id="clutchResults" class="col-xs-4 form-group">
+				<legend>Clutch Results</legend>
+				<div class="form-group">
+					<p>{{clutchResults}}</p>
 				</div>
 			</div>
 		</form>
 		<div class="submitresults container-fluid">
 			<button class="btn btn-primary btn-block" id="calculateMorph" @click="clutch">Calculate Morph</button>
 		</div>
-		<p>{{marry}}</p>
 	</div>
 </div>
 

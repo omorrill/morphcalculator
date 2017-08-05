@@ -1,775 +1,2323 @@
 {
-	"401 Ball": {"name": "401 Ball"},
-	"8 Ball": {"name": "8 Ball"},
-	"Acid": {"name": "Acid"},
-	"Super Acid": {"name": "Super Acid"},
-	"Albino": {"name": "Albino"},
-	"100% Het Albino": {"name": "100% Het Albino"},
-	"66% Het Albino": {"name": "66% Het Albino"},
-	"50% Het Albino": {"name": "50% Het Albino"},
-	"Pos Het Albino": {"name": "Pos Het Albino"},
-	"Alpha": {"name": "Alpha"},
-	"Super Alpha": {"name": "Super Alpha"},
-	"Amber Pastel": {"name": "Amber Pastel"},
-	"Amoretti": {"name": "Amoretti"},
-	"Angel Of Death": {"name": "Angel Of Death"},
-	"Aquila": {"name": "Aquila"},
-	"Arid": {"name": "Arid"},
-	"Super Arid": {"name": "Super Arid"},
-	"Arroyo": {"name": "Arroyo"},
-	"Super Arroyo": {"name": "Super Arroyo"},
-	"Asphalt": {"name": "Asphalt"},
-	"Super Asphalt": {"name": "Super Asphalt"},
-	"Asystole": {"name": "Asystole"},
-	"Atomic": {"name": "Atomic"},
-	"100% Het Atomic": {"name": "Albino"},
-	"66% Het Atomic": {"name": "Albino"},
-	"50% Het Atomic": {"name": "Albino"},
-	"Pos Het Atomic": {"name": "Albino"},
-	"Aurora": {"name": "Albino"},
-	"Avalanche": {"name": "Albino"},
-	"Super Avalanche": {"name": "Albino"},
-	"Axanthic": {"name": "Albino"},
-	"100% Het Axanthic": {"name": "Albino"},
-	"66% Het Axanthic": {"name": "Albino"},
-	"50% Het Axanthic": {"name": "Albino"},
-	"Pos Het Axanthic": {"name": "Albino"},
-	"Baja": {"name": "Albino"},
-	"Bald": {"name": "Albino"},
-	"Super Bald": {"name": "Albino"},
-	"Bambee": {"name": "Albino"},
-	"Bamboo": {"name": "Albino"},
-	"Super Bamboo": {"name": "Albino"},
-	"Banana": {"name": "Albino"},
-	"Super Banana": {"name": "Albino"},
-	"Banana Bee": {"name": "Albino"},
-	"Bazinga": {"name": "Albino"},
-	"Beast": {"name": "Albino"},
-	"Bengal": {"name": "Albino"},
-	"100% Het Bengal": {"name": "Albino"},
-	"66% Het Bengal": {"name": "Albino"},
-	"50% Het Bengal": {"name": "Albino"},
-	"Pos Het Bengal": {"name": "Albino"},
-	"Biancaball": {"name": "Albino"},
-	"Super Biancaball": {"name": "Albino"},
-	"Biohazard": {"name": "Albino"},
-	"Black Adder": {"name": "Albino"},
-	"Super Black Adder": {"name": "Albino"},
-	"Black Axanthic": {"name": "Albino"},
-	"100% Het Black Axanthic": {"name": "Albino"},
-	"66% Het Black Axanthic": {"name": "Albino"},
-	"50% Het Black Axanthic": {"name": "Albino"},
-	"Pos Het Black Axanthic": {"name": "Albino"},
-	"Black Bee": {"name": "Albino"},
-	"Black Belly": {"name": "Albino"},
-	"Super Black Belly": {"name": "Albino"},
-	"Black Cream": {"name": "Albino"},
-	"Black Fire": {"name": "Albino"},
-	"Black Gargoyle": {"name": "Albino"},
-	"Black Head": {"name": "Albino"},
-	"Super Black Head": {"name": "Albino"},
-	"Black Lace": {"name": "Albino"},
-	"100% Het Black Lace": {"name": "Albino"},
-	"66% Het Black Lace": {"name": "Albino"},
-	"50% Het Black Lace": {"name": "Albino"},
-	"Pos Het Black Lace": {"name": "Albino"},
-	"Black Magic": {"name": "Albino"},
-	"Black Nightmare": {"name": "Albino"},
-	"Black Opal": {"name": "Albino"},
-	"Super Black Opal": {"name": "Albino"},
-	"Black Pastel": {"name": "Albino"},
-	"Super Black Pastel": {"name": "Albino"},
-	"Black Pewter": {"name": "Albino"},
-	"Black Pewter Blast": {"name": "Albino"},
-	"Black Pewterpagne": {"name": "Albino"},
-	"Black Pin": {"name": "Albino"},
-	"Black Pinstripe": {"name": "Albino"},
-	"Black Widow": {"name": "Albino"},
-	"Black-eye Leucistic": {"name": "Albino"},
-	"Black-eye Lucy": {"name": "Albino"},
-	"Black-eyed Leucistic": {"name": "Albino"},
-	"Black-eyed Lucy": {"name": "Albino"},
-	"Blade": {"name": "Albino"},
-	"Super Blade": {"name": "Albino"},
-	"Blanchi": {"name": "Albino"},
-	"Bling": {"name": "Albino"},
-	"Super Bling": {"name": "Albino"},
-	"Blitz": {"name": "Albino"},
-	"Super Blitz": {"name": "Albino"},
-	"Blitzkrieg": {"name": "Albino"},
-	"Blizzard": {"name": "Albino"},
-	"Blue-Eyed Lucy (But/But)": {"name": "Albino"},
-	"Blue-Eyed Lucy (But/Les)": {"name": "Albino"},
-	"Blue-Eyed Lucy (But/Moj)": {"name": "Albino"},
-	"Blue-Eyed Lucy (Les/Les)": {"name": "Albino"},
-	"Blue-Eyed Lucy (Moj/Les)": {"name": "Albino"},
-	"Blue-Eyed Lucy (Moj/Moj)": {"name": "Albino"},
-	"Blue-Eyed Lucy (Rus/But)": {"name": "Albino"},
-	"Blue-Eyed Lucy (Rus/Les)": {"name": "Albino"},
-	"Blue-Eyed Lucy (Rus/Moj)": {"name": "Albino"},
-	"Bongo": {"name": "Albino"},
-	"Super Bongo": {"name": "Albino"},
-	"Boom": {"name": "Albino"},
-	"Bourgogne Albino": {"name": "Albino"},
-	"100% Het Bourgogne Albino": {"name": "Albino"},
-	"66% Het Bourgogne Albino": {"name": "Albino"},
-	"50% Het Bourgogne Albino": {"name": "Albino"},
-	"Pos Het Bourgogne Albino": {"name": "Albino"},
-	"Brass Ball": {"name": "Albino"},
-	"Brite": {"name": "Albino"},
-	"Super Brite": {"name": "Albino"},
-	"Brown Back": {"name": "Albino"},
-	"Super Brown Back": {"name": "Albino"},
-	"Bubble Gum": {"name": "Albino"},
-	"Bubblegum": {"name": "Albino"},
-	"Bumble Bee": {"name": "Albino"},
-	"Bumble Belly": {"name": "Albino"},
-	"Burgundy": {"name": "Albino"},
-	"100% Het Burgundy": {"name": "Albino"},
-	"66% Het Burgundy": {"name": "Albino"},
-	"50% Het Burgundy": {"name": "Albino"},
-	"Pos Het Burgundy": {"name": "Albino"},
-	"Bush Fire": {"name": "Albino"},
-	"Butter": {"name": "Albino"},
-	"Super Butter": {"name": "Albino"},
-	"Butter Bee": {"name": "Albino"},
-	"Butter Belly": {"name": "Albino"},
-	"Butter Daddy": {"name": "Albino"},
-	"Butter Fly": {"name": "Albino"},
-	"Buttered Rum": {"name": "Albino"},
-	"Butterfly": {"name": "Albino"},
-	"Buttery Nipple": {"name": "Albino"},
-	"Buzz": {"name": "Albino"},
-	"Cajun": {"name": "Albino"},
-	"Super Cajun": {"name": "Albino"},
-	"Cali Bee": {"name": "Albino"},
-	"Calico": {"name": "Albino"},
-	"Super Calico": {"name": "Albino"},
-	"Calico Power": {"name": "Albino"},
-	"Calider": {"name": "Albino"},
-	"Camarillo": {"name": "Albino"},
-	"Camo": {"name": "Albino"},
-	"Camouflage": {"name": "Albino"},
-	"Candied Clown": {"name": "Albino"},
-	"Candino": {"name": "Albino"},
-	"Candy": {"name": "Albino"},
-	"100% Het Candy": {"name": "Albino"},
-	"66% Het Candy": {"name": "Albino"},
-	"50% Het Candy": {"name": "Albino"},
-	"Pos Het Candy": {"name": "Albino"},
-	"Caramel": {"name": "Albino"},
-	"Caramel Albino": {"name": "Albino"},
-	"100% Het Caramel Albino": {"name": "Albino"},
-	"66% Het Caramel Albino": {"name": "Albino"},
-	"50% Het Caramel Albino": {"name": "Albino"},
-	"Pos Het Caramel Albino": {"name": "Albino"},
-	"Caramel Glow": {"name": "Albino"},
-	"Caravanah": {"name": "Albino"},
-	"Cg": {"name": "Albino"},
-	"Chainsaw": {"name": "Albino"},
-	"Champagne": {"name": "Albino"},
-	"Super Champagne": {"name": "Albino"},
-	"Cheetah": {"name": "Albino"},
-	"Chernobyl": {"name": "Albino"},
-	"Cherry Bomb": {"name": "Albino"},
-	"Chetah": {"name": "Albino"},
-	"Chocolate": {"name": "Albino"},
-	"Super Chocolate": {"name": "Albino"},
-	"Chocolate Blast": {"name": "Albino"},
-	"Cinna Bee": {"name": "Albino"},
-	"Cinna Belly": {"name": "Albino"},
-	"Cinna Cal": {"name": "Albino"},
-	"Cinna Mel": {"name": "Albino"},
-	"Cinna Pin": {"name": "Albino"},
-	"Cinna Spin": {"name": "Albino"},
-	"Cinnamel": {"name": "Albino"},
-	"Cinnamon": {"name": "Albino"},
-	"Super Cinnamon": {"name": "Albino"},
-	"Cinny": {"name": "Albino"},
-	"Cinny Ferno": {"name": "Albino"},
-	"Citrus Hypo": {"name": "Albino"},
-	"100% Het Citrus Hypo": {"name": "Albino"},
-	"66% Het Citrus Hypo": {"name": "Albino"},
-	"50% Het Citrus Hypo": {"name": "Albino"},
-	"Pos Het Citrus Hypo": {"name": "Albino"},
-	"Citrus Pastel": {"name": "Albino"},
-	"Super Citrus Pastel": {"name": "Albino"},
-	"Classic": {"name": "Albino"},
-	"Clown": {"name": "Albino"},
-	"100% Het Clown": {"name": "Albino"},
-	"66% Het Clown": {"name": "Albino"},
-	"50% Het Clown": {"name": "Albino"},
-	"Pos Het Clown": {"name": "Albino"},
-	"Coffee": {"name": "Albino"},
-	"Super Coffee": {"name": "Albino"},
-	"Confusion": {"name": "Albino"},
-	"Super Confusion": {"name": "Albino"},
-	"Congo": {"name": "Albino"},
-	"Super Congo": {"name": "Albino"},
-	"Coral Bee": {"name": "Albino"},
-	"Coral Glow": {"name": "Albino"},
-	"Super Coral Glow": {"name": "Albino"},
-	"Coral Reef": {"name": "Albino"},
-	"Corcra": {"name": "Albino"},
-	"Cougar": {"name": "Albino"},
-	"Cream Diamond": {"name": "Albino"},
-	"Creed": {"name": "Albino"},
-	"Super Creed": {"name": "Albino"},
-	"Crider": {"name": "Albino"},
-	"100% Het Crider": {"name": "Albino"},
-	"66% Het Crider": {"name": "Albino"},
-	"50% Het Crider": {"name": "Albino"},
-	"Pos Het Crider": {"name": "Albino"},
-	"Cryptic": {"name": "Albino"},
-	"Pos Cryptic": {"name": "Albino"},
-	"Crystal": {"name": "Albino"},
-	"Cypress": {"name": "Albino"},
-	"Super Cypress": {"name": "Albino"},
-	"Dark Side": {"name": "Albino"},
-	"Darth Fader": {"name": "Albino"},
-	"Deep Purple Passion": {"name": "Albino"},
-	"Desert": {"name": "Albino"},
-	"Super Desert": {"name": "Albino"},
-	"Desert Ghost": {"name": "Albino"},
-	"100% Het Desert Ghost": {"name": "Albino"},
-	"66% Het Desert Ghost": {"name": "Albino"},
-	"50% Het Desert Ghost": {"name": "Albino"},
-	"Pos Het Desert Ghost": {"name": "Albino"},
-	"Diablo": {"name": "Albino"},
-	"Diesel": {"name": "Albino"},
-	"Super Diesel": {"name": "Albino"},
-	"Dinker": {"name": "Albino"},
-	"Pos Dinker": {"name": "Albino"},
-	"Disco": {"name": "Albino"},
-	"Super Disco": {"name": "Albino"},
-	"Disco Inferno": {"name": "Albino"},
-	"Dot": {"name": "Albino"},
-	"Super Dot": {"name": "Albino"},
-	"Dota": {"name": "Albino"},
-	"Dragon Fly": {"name": "Albino"},
-	"Dreamsicle": {"name": "Albino"},
-	"Ebony": {"name": "Albino"},
-	"Egypt": {"name": "Albino"},
-	"Ellie Ball": {"name": "Albino"},
-	"Emperor Pin": {"name": "Albino"},
-	"Emperor Pinstripe": {"name": "Albino"},
-	"Enchi": {"name": "Albino"},
-	"Super Enchi": {"name": "Albino"},
-	"Enchiferno": {"name": "Albino"},
-	"Enhancer": {"name": "Albino"},
-	"100% Het Enhancer": {"name": "Albino"},
-	"66% Het Enhancer": {"name": "Albino"},
-	"50% Het Enhancer": {"name": "Albino"},
-	"Pos Het Enhancer": {"name": "Albino"},
-	"Epic": {"name": "Albino"},
-	"Super Epic": {"name": "Albino"},
-	"Eraserhead": {"name": "Albino"},
-	"Exo-lbb": {"name": "Albino"},
-	"Super Exo-lbb": {"name": "Albino"},
-	"Fader": {"name": "Albino"},
-	"Pos Fader": {"name": "Albino"},
-	"Fire": {"name": "Albino"},
-	"Super Fire": {"name": "Albino"},
-	"Fire Bee": {"name": "Albino"},
-	"Fire Fly": {"name": "Albino"},
-	"Firefly": {"name": "Albino"},
-	"Firemon": {"name": "Albino"},
-	"Firing Pin": {"name": "Albino"},
-	"Flame": {"name": "Albino"},
-	"Super Flame": {"name": "Albino"},
-	"Flare": {"name": "Albino"},
-	"Super Flare": {"name": "Albino"},
-	"Floma": {"name": "Albino"},
-	"Freeway": {"name": "Albino"},
-	"Frostbite": {"name": "Albino"},
-	"Fusion": {"name": "Albino"},
-	"Super Fusion": {"name": "Albino"},
-	"G-stripe": {"name": "Albino"},
-	"Garcia": {"name": "Albino"},
-	"Super Garcia": {"name": "Albino"},
-	"Gargoyle": {"name": "Albino"},
-	"Gargoyle (Cin/HRA)": {"name": "Albino"},
-	"Gargoyle (LBB/BP)": {"name": "Albino"},
-	"Genetic Banded": {"name": "Albino"},
-	"Super Genetic Banded": {"name": "Albino"},
-	"Genetic Black Back": {"name": "Albino"},
-	"Super Genetic Black Back": {"name": "Albino"},
-	"Genetic Reduced": {"name": "Albino"},
-	"Pos Genetic Reduced": {"name": "Albino"},
-	"Genetic Stripe": {"name": "Albino"},
-	"100% Het Genetic Stripe": {"name": "Albino"},
-	"66% Het Genetic Stripe": {"name": "Albino"},
-	"50% Het Genetic Stripe": {"name": "Albino"},
-	"Pos Het Genetic Stripe": {"name": "Albino"},
-	"GHI": {"name": "Albino"},
-	"Super GHI": {"name": "Albino"},
-	"Ghost": {"name": "Albino"},
-	"100% Het Ghost": {"name": "Albino"},
-	"66% Het Ghost": {"name": "Albino"},
-	"50% Het Ghost": {"name": "Albino"},
-	"Pos Het Ghost": {"name": "Albino"},
-	"Ghost (Vesper)": {"name": "Albino"},
-	"100% Het Ghost (Vesper)": {"name": "Albino"},
-	"66% Het Ghost (Vesper)": {"name": "Albino"},
-	"50% Het Ghost (Vesper)": {"name": "Albino"},
-	"Pos Het Ghost (Vesper)": {"name": "Albino"},
-	"Ghost Killa": {"name": "Albino"},
-	"Ghostbuster": {"name": "Albino"},
-	"Goblin": {"name": "Albino"},
-	"Super Goblin": {"name": "Albino"},
-	"Gold Blush": {"name": "Albino"},
-	"Super Gold Blush": {"name": "Albino"},
-	"Golden Rod": {"name": "Albino"},
-	"Goldfinger": {"name": "Albino"},
-	"100% Het Goldfinger": {"name": "Albino"},
-	"66% Het Goldfinger": {"name": "Albino"},
-	"50% Het Goldfinger": {"name": "Albino"},
-	"Pos Het Goldfinger": {"name": "Albino"},
-	"Graffiti": {"name": "Albino"},
-	"Granite": {"name": "Albino"},
-	"Super Granite": {"name": "Albino"},
-	"Gravel": {"name": "Albino"},
-	"Super Gravel": {"name": "Albino"},
-	"Gray Matter": {"name": "Albino"},
-	"Green Pastel": {"name": "Albino"},
-	"Grenade": {"name": "Albino"},
-	"Grey Matter": {"name": "Albino"},
-	"Grim": {"name": "Albino"},
-	"Super Grim": {"name": "Albino"},
-	"Gypsy": {"name": "Albino"},
-	"Super Gypsy": {"name": "Albino"},
-	"Harlequin": {"name": "Albino"},
-	"Super Harlequin": {"name": "Albino"},
-	"Havoc": {"name": "Albino"},
-	"Het Daddy": {"name": "Albino"},
-	"Daddy": {"name": "Albino"},
-	"Het Red": {"name": "Albino"},
-	"Het Red Axanthic": {"name": "Albino"},
-	"Red Axanthic": {"name": "Albino"},
-	"Het Russo": {"name": "Albino"},
-	"Het Russo Leucistic": {"name": "Albino"},
-	"Het Scaleless": {"name": "Albino"},
-	"Hidden Gene Woma": {"name": "Albino"},
-	"Super Hidden Gene Woma": {"name": "Albino"},
-	"Highway": {"name": "Albino"},
-	"Honey": {"name": "Albino"},
-	"Super Honey": {"name": "Albino"},
-	"Honey Bee": {"name": "Albino"},
-	"Hornet": {"name": "Albino"},
-	"Hot Chocolate": {"name": "Albino"},
-	"Hot Sauce": {"name": "Albino"},
-	"Huffman": {"name": "Albino"},
-	"Super Huffman": {"name": "Albino"},
-	"Humble Bee": {"name": "Albino"},
-	"Hurricane": {"name": "Albino"},
-	"Super Hurricane": {"name": "Albino"},
-	"Hydra": {"name": "Albino"},
-	"Super Hydra": {"name": "Albino"},
-	"Hypo": {"name": "Albino"},
-	"Hypomelanistic": {"name": "Albino"},
-	"Inferno": {"name": "Albino"},
-	"Invisi-ball": {"name": "Albino"},
-	"Invisiball": {"name": "Albino"},
-	"Ivory": {"name": "Albino"},
-	"Jedi": {"name": "Albino"},
-	"Super Jedi": {"name": "Albino"},
-	"Jigsaw": {"name": "Albino"},
-	"Joppa": {"name": "Albino"},
-	"Super Joppa": {"name": "Albino"},
-	"Josie": {"name": "Albino"},
-	"Super Josie": {"name": "Albino"},
-	"Jungle Woma": {"name": "Albino"},
-	"Super Jungle Woma": {"name": "Albino"},
-	"Kalabash": {"name": "Albino"},
-	"Kalabash Reduction Gene": {"name": "Albino"},
-	"Kalahari": {"name": "Albino"},
-	"Karma": {"name": "Albino"},
-	"Killer Bee": {"name": "Albino"},
-	"Killer Blast": {"name": "Albino"},
-	"Killer Clown": {"name": "Albino"},
-	"Killer Hornet": {"name": "Albino"},
-	"Killer Pied": {"name": "Albino"},
-	"Killer Queenbee": {"name": "Albino"},
-	"Killer Queenspin": {"name": "Albino"},
-	"Killer Spinner": {"name": "Albino"},
-	"King Pin": {"name": "Albino"},
-	"King Spin": {"name": "Albino"},
-	"Kingpin": {"name": "Albino"},
-	"KRG": {"name": "Albino"},
-	"Super KRG": {"name": "Albino"},
-	"Lace": {"name": "Albino"},
-	"Super Lace": {"name": "Albino"},
-	"Lace Black Back": {"name": "Albino"},
-	"Super Lace Black Back": {"name": "Albino"},
-	"Latte": {"name": "Albino"},
-	"Lavender": {"name": "Albino"},
-	"Lavender Albino": {"name": "Albino"},
-	"100% Het Lavender Albino": {"name": "Albino"},
-	"66% Het Lavender Albino": {"name": "Albino"},
-	"50% Het Lavender Albino": {"name": "Albino"},
-	"Pos Het Lavender Albino": {"name": "Albino"},
-	"Lavender Snow": {"name": "Albino"},
-	"Leatherface": {"name": "Albino"},
-	"Leche": {"name": "Albino"},
-	"Lemon Blast": {"name": "Albino"},
-	"Lemon Pastel": {"name": "Albino"},
-	"Super Lemon Pastel": {"name": "Albino"},
-	"Lemonback": {"name": "Albino"},
-	"Super Lemonback": {"name": "Albino"},
-	"Leopard": {"name": "Albino"},
-	"Super Leopard": {"name": "Albino"},
-	"Leopard Extra": {"name": "Albino"},
-	"Leopard Pied": {"name": "Albino"},
-	"Lesser": {"name": "Albino"},
-	"Super Lesser": {"name": "Albino"},
-	"Lesser Bee": {"name": "Albino"},
-	"Lesser Platinum": {"name": "Albino"},
-	"Lightning Bug": {"name": "Albino"},
-	"Lightning Pied": {"name": "Albino"},
-	"Lithium": {"name": "Albino"},
-	"Lithium Blaze": {"name": "Albino"},
-	"Lithium Fire": {"name": "Albino"},
-	"Lori": {"name": "Albino"},
-	"Super Lori": {"name": "Albino"},
-	"Lucifer": {"name": "Albino"},
-	"Super Lucifer": {"name": "Albino"},
-	"Mahogany": {"name": "Albino"},
-	"Super Mahogany": {"name": "Albino"},
-	"Malum": {"name": "Albino"},
-	"Super Malum": {"name": "Albino"},
-	"Mancer": {"name": "Albino"},
-	"Super Mancer": {"name": "Albino"},
-	"Marble": {"name": "Albino"},
-	"Super Marble": {"name": "Albino"},
-	"Mario": {"name": "Albino"},
-	"Super Mario": {"name": "Albino"},
-	"Marvel": {"name": "Albino"},
-	"Super Marvel": {"name": "Albino"},
-	"Melt": {"name": "Albino"},
-	"Super Melt": {"name": "Albino"},
-	"Mephisto": {"name": "Albino"},
-	"Mercury": {"name": "Albino"},
-	"Mercury Ball": {"name": "Albino"},
-	"Metallica": {"name": "Albino"},
-	"Mimosa": {"name": "Albino"},
-	"Mocha": {"name": "Albino"},
-	"Super Mocha": {"name": "Albino"},
-	"Mochi Bumble Bee": {"name": "Albino"},
-	"Mojave": {"name": "Albino"},
-	"Super Mojave": {"name": "Albino"},
-	"Mojito": {"name": "Albino"},
-	"Monarch": {"name": "Albino"},
-	"100% Het Monarch": {"name": "Albino"},
-	"66% Het Monarch": {"name": "Albino"},
-	"50% Het Monarch": {"name": "Albino"},
-	"Pos Het Monarch": {"name": "Albino"},
-	"Mota": {"name": "Albino"},
-	"Super Mota": {"name": "Albino"},
-	"Motley Bee": {"name": "Albino"},
-	"Mudball": {"name": "Albino"},
-	"Mystic": {"name": "Albino"},
-	"Super Mystic": {"name": "Albino"},
-	"Mystic Crystal": {"name": "Albino"},
-	"Mystic Potion": {"name": "Albino"},
-	"Nanny": {"name": "Albino"},
-	"Super Nanny": {"name": "Albino"},
-	"Napalm": {"name": "Albino"},
-	"Super Napalm": {"name": "Albino"},
-	"Nazca": {"name": "Albino"},
-	"Super Nazca": {"name": "Albino"},
-	"Night Crawler": {"name": "Albino"},
-	"Normal": {"name": "Albino"},
-	"Nova": {"name": "Albino"},
-	"Super Nova": {"name": "Albino"},
-	"Nr Mandarin": {"name": "Albino"},
-	"Super Nr Mandarin": {"name": "Albino"},
-	"Nuclear": {"name": "Albino"},
-	"Nuclear Bee": {"name": "Albino"},
-	"Nuclear Champagne": {"name": "Albino"},
-	"Nuclear Pinstripe": {"name": "Albino"},
-	"Nuclear Spider": {"name": "Albino"},
-	"Nuclear Spinner": {"name": "Albino"},
-	"Oasis": {"name": "Albino"},
-	"Ocelot": {"name": "Albino"},
-	"Odium": {"name": "Albino"},
-	"Super Odium": {"name": "Albino"},
-	"Onyx": {"name": "Albino"},
-	"Orange Belly": {"name": "Albino"},
-	"Super Orange Belly": {"name": "Albino"},
-	"Orange Burst": {"name": "Albino"},
-	"Orange Crush": {"name": "Albino"},
-	"100% Het Orange Crush": {"name": "Albino"},
-	"66% Het Orange Crush": {"name": "Albino"},
-	"50% Het Orange Crush": {"name": "Albino"},
-	"Pos Het Orange Crush": {"name": "Albino"},
-	"Orange Dream": {"name": "Albino"},
-	"Super Orange Dream": {"name": "Albino"},
-	"Orange Ghost": {"name": "Albino"},
-	"100% Het Orange Ghost": {"name": "Albino"},
-	"66% Het Orange Ghost": {"name": "Albino"},
-	"50% Het Orange Ghost": {"name": "Albino"},
-	"Pos Het Orange Ghost": {"name": "Albino"},
-	"Orange Glow": {"name": "Albino"},
-	"Super Orange Glow": {"name": "Albino"},
-	"Orange Hypo": {"name": "Albino"},
-	"Orion": {"name": "Albino"},
-	"Other Trait": {"name": "Albino"},
-	"Pos Other Trait": {"name": "Albino"},
-	"Paint": {"name": "Albino"},
-	"Super Paint": {"name": "Albino"},
-	"Panda Pied": {"name": "Albino"},
-	"Paradox": {"name": "Albino"},
-	"Pos Paradox": {"name": "Albino"},
-	"Pastave": {"name": "Albino"},
-	"Pastave Bee": {"name": "Albino"},
-	"Pastel": {"name": "Albino"},
-	"Super Pastel": {"name": "Albino"},
-	"Pastel Cyrstal": {"name": "Albino"},
-	"Pastel Jungle": {"name": "Albino"},
-	"Pos Pastel Jungle": {"name": "Albino"},
-	"Patternless": {"name": "Albino"},
-	"100% Het Patternless": {"name": "Albino"},
-	"66% Het Patternless": {"name": "Albino"},
-	"50% Het Patternless": {"name": "Albino"},
-	"Pos Het Patternless": {"name": "Albino"},
-	"Peach": {"name": "Albino"},
-	"100% Het Peach": {"name": "Albino"},
-	"66% Het Peach": {"name": "Albino"},
-	"50% Het Peach": {"name": "Albino"},
-	"Pos Het Peach": {"name": "Albino"},
-	"Pearl": {"name": "Albino"},
-	"Perignon": {"name": "Albino"},
-	"Pewter": {"name": "Albino"},
-	"Pewter Bee": {"name": "Albino"},
-	"Pewter Belly": {"name": "Albino"},
-	"Pewter Blast": {"name": "Albino"},
-	"Pewterpagne": {"name": "Albino"},
-	"Phantom": {"name": "Albino"},
-	"Super Phantom": {"name": "Albino"},
-	"Phantom Potion": {"name": "Albino"},
-	"Philistine": {"name": "Albino"},
-	"Super Philistine": {"name": "Albino"},
-	"Phoenix": {"name": "Albino"},
-	"Php": {"name": "Albino"},
-	"Picasso": {"name": "Albino"},
-	"Pie Bald": {"name": "Albino"},
-	"Piebald": {"name": "Albino"},
-	"100% Het Piebald": {"name": "Albino"},
-	"66% Het Piebald": {"name": "Albino"},
-	"50% Het Piebald": {"name": "Albino"},
-	"Pos Het Piebald": {"name": "Albino"},
-	"Pied": {"name": "Albino"},
-	"Pinstripe": {"name": "Albino"},
-	"Super Pinstripe": {"name": "Albino"},
-	"Pinto Pied": {"name": "Albino"},
-	"Platiator": {"name": "Albino"},
-	"Platinum": {"name": "Albino"},
-	"Platty Daddy": {"name": "Albino"},
-	"Polar Ball": {"name": "Albino"},
-	"Powerball": {"name": "Albino"},
-	"Puma": {"name": "Albino"},
-	"Pumpkin Pied": {"name": "Albino"},
-	"Purple Passion": {"name": "Albino"},
-	"Puzzle": {"name": "Albino"},
-	"100% Het Puzzle": {"name": "Albino"},
-	"66% Het Puzzle": {"name": "Albino"},
-	"50% Het Puzzle": {"name": "Albino"},
-	"Pos Het Puzzle": {"name": "Albino"},
-	"Pyro Pied": {"name": "Albino"},
-	"Quake": {"name": "Albino"},
-	"Super Quake": {"name": "Albino"},
-	"Queen Bee": {"name": "Albino"},
-	"Queen Pin": {"name": "Albino"},
-	"Queen Spin": {"name": "Albino"},
-	"Quint": {"name": "Albino"},
-	"Radioactive": {"name": "Albino"},
-	"Super Radioactive": {"name": "Albino"},
-	"Rainbow": {"name": "Albino"},
-	"100% Het Rainbow": {"name": "Albino"},
-	"66% Het Rainbow": {"name": "Albino"},
-	"50% Het Rainbow": {"name": "Albino"},
-	"Pos Het Rainbow": {"name": "Albino"},
-	"Rainbow Banana": {"name": "Albino"},
-	"Raven Claw": {"name": "Albino"},
-	"Real": {"name": "Albino"},
-	"Reaper": {"name": "Albino"},
-	"Super Reaper": {"name": "Albino"},
-	"Red Devil": {"name": "Albino"},
-	"Red Spectrum": {"name": "Albino"},
-	"Red Stripe": {"name": "Albino"},
-	"Super Red Stripe": {"name": "Albino"},
-	"Rio": {"name": "Albino"},
-	"Rodeo": {"name": "Albino"},
-	"Russo": {"name": "Albino"},
-	"Super Russo": {"name": "Albino"},
-	"Russo Het Leucistic": {"name": "Albino"},
-	"Russo Leucistic": {"name": "Albino"},
-	"Sable": {"name": "Albino"},
-	"Super Sable": {"name": "Albino"},
-	"Saffron": {"name": "Albino"},
-	"Sahara": {"name": "Albino"},
-	"100% Het Sahara": {"name": "Albino"},
-	"66% Het Sahara": {"name": "Albino"},
-	"50% Het Sahara": {"name": "Albino"},
-	"Pos Het Sahara": {"name": "Albino"},
-	"Sandblast": {"name": "Albino"},
-	"Super Sandblast": {"name": "Albino"},
-	"Satin": {"name": "Albino"},
-	"Super Satin": {"name": "Albino"},
-	"Sauce": {"name": "Albino"},
-	"Super Sauce": {"name": "Albino"},
-	"Savannah": {"name": "Albino"},
-	"Savannah Pewter": {"name": "Albino"},
-	"Scaleless": {"name": "Albino"},
-	"Scaleless Head": {"name": "Albino"},
-	"Super Scaleless Head": {"name": "Albino"},
-	"Scaleless Het": {"name": "Albino"},
-	"Scream": {"name": "Albino"},
-	"Sentinel": {"name": "Albino"},
-	"Super Sentinel": {"name": "Albino"},
-	"Shatter": {"name": "Albino"},
-	"Super Shatter": {"name": "Albino"},
-	"Sherbert Fly": {"name": "Albino"},
-	"Shinobi": {"name": "Albino"},
-	"Super Shinobi": {"name": "Albino"},
-	"Shrapnel": {"name": "Albino"},
-	"Super Shrapnel": {"name": "Albino"},
-	"Shredder": {"name": "Albino"},
-	"Super Shredder": {"name": "Albino"},
-	"Silver Bullet": {"name": "Albino"},
-	"Silver Streak": {"name": "Albino"},
-	"Silver Surfer": {"name": "Albino"},
-	"Siren": {"name": "Albino"},
-	"Snow": {"name": "Albino"},
-	"Solar Flare": {"name": "Albino"},
-	"Sonnet Ball": {"name": "Albino"},
-	"Soul Sucker": {"name": "Albino"},
-	"Spark": {"name": "Albino"},
-	"Super Spark": {"name": "Albino"},
-	"Special": {"name": "Albino"},
-	"Super Special": {"name": "Albino"},
-	"Special Blast": {"name": "Albino"},
-	"Specter": {"name": "Albino"},
-	"Super Specter": {"name": "Albino"},
-	"Sphere": {"name": "Albino"},
-	"Spider": {"name": "Albino"},
-	"Super Spider": {"name": "Albino"},
-	"Spied": {"name": "Albino"},
-	"Spinner": {"name": "Albino"},
-	"Spinner Blast": {"name": "Albino"},
-	"Splatter": {"name": "Albino"},
-	"Super Splatter": {"name": "Albino"},
-	"Spotnose": {"name": "Albino"},
-	"Super Spotnose": {"name": "Albino"},
-	"Static": {"name": "Albino"},
-	"Super Static": {"name": "Albino"},
-	"Static Electricity": {"name": "Albino"},
-	"Sterling": {"name": "Albino"},
-	"Sterling Bee": {"name": "Albino"},
-	"Sterling Pastel": {"name": "Albino"},
-	"Sterling Yellow Belly": {"name": "Albino"},
-	"Stinger Bee": {"name": "Albino"},
-	"Stinger Blast": {"name": "Albino"},
-	"Stinging Bumble Bee": {"name": "Albino"},
-	"Stingless Bee": {"name": "Albino"},
-	"Sugar": {"name": "Albino"},
-	"Super Sugar": {"name": "Albino"},
-	"Sulfur": {"name": "Albino"},
-	"Super Sulfur": {"name": "Albino"},
-	"Suma": {"name": "Albino"},
-	"Sunglow": {"name": "Albino"},
-	"Sunset": {"name": "Albino"},
-	"100% Het Sunset": {"name": "Albino"},
-	"66% Het Sunset": {"name": "Albino"},
-	"50% Het Sunset": {"name": "Albino"},
-	"Pos Het Sunset": {"name": "Albino"},
-	"Super Black Pewter": {"name": "Albino"},
-	"Super Blast": {"name": "Albino"},
-	"Super Emperor": {"name": "Albino"},
-	"Super Fly": {"name": "Albino"},
-	"Super Glow": {"name": "Albino"},
-	"Super Inferno": {"name": "Albino"},
-	"Super Pewter": {"name": "Albino"},
-	"Super Stripe": {"name": "Albino"},
-	"Superferno": {"name": "Albino"},
-	"Superfly": {"name": "Albino"},
-	"Swarm": {"name": "Albino"},
-	"Sydney Ball": {"name": "Albino"},
-	"Tiger": {"name": "Albino"},
-	"Tiger Bee": {"name": "Albino"},
-	"Titan": {"name": "Albino"},
-	"Titanium": {"name": "Albino"},
-	"Toffee": {"name": "Albino"},
-	"100% Het Toffee": {"name": "Albino"},
-	"66% Het Toffee": {"name": "Albino"},
-	"50% Het Toffee": {"name": "Albino"},
-	"Pos Het Toffee": {"name": "Albino"},
-	"Toffino": {"name": "Albino"},
-	"Toxique": {"name": "Albino"},
-	"Super Toxique": {"name": "Albino"},
-	"Tri-stripe": {"name": "Albino"},
-	"100% Het Tri-stripe": {"name": "Albino"},
-	"66% Het Tri-stripe": {"name": "Albino"},
-	"50% Het Tri-stripe": {"name": "Albino"},
-	"Pos Het Tri-stripe": {"name": "Albino"},
-	"Trick": {"name": "Albino"},
-	"Super Trick": {"name": "Albino"},
-	"Triton": {"name": "Albino"},
-	"Trojan": {"name": "Albino"},
-	"Super Trojan": {"name": "Albino"},
-	"True Ghost": {"name": "Albino"},
-	"Twilight": {"name": "Albino"},
-	"Ultra Fly": {"name": "Albino"},
-	"Ultra Pin": {"name": "Albino"},
-	"Ultrafly": {"name": "Albino"},
-	"Ultramel": {"name": "Albino"},
-	"100% Het Ultramel": {"name": "Albino"},
-	"66% Het Ultramel": {"name": "Albino"},
-	"50% Het Ultramel": {"name": "Albino"},
-	"Pos Het Ultramel": {"name": "Albino"},
-	"Ultramelanistic": {"name": "Albino"},
-	"Uranium Blast": {"name": "Albino"},
-	"Urban Camo": {"name": "Albino"},
-	"Vanilla": {"name": "Albino"},
-	"Super Vanilla": {"name": "Albino"},
-	"Vanilla Bee": {"name": "Albino"},
-	"Vanilla Blast": {"name": "Albino"},
-	"Vanilla Cream": {"name": "Albino"},
-	"Vanilla Scream": {"name": "Albino"},
-	"Vesper": {"name": "Albino"},
-	"100% Het Vesper": {"name": "Albino"},
-	"66% Het Vesper": {"name": "Albino"},
-	"50% Het Vesper": {"name": "Albino"},
-	"Pos Het Vesper": {"name": "Albino"},
-	"Victory": {"name": "Albino"},
-	"Super Victory": {"name": "Albino"},
-	"Vpi Axanthic": {"name": "Albino"},
-	"Wanna Bee": {"name": "Albino"},
-	"Web": {"name": "Albino"},
-	"Super Web": {"name": "Albino"},
-	"White Diamond": {"name": "Albino"},
-	"White Lace": {"name": "Albino"},
-	"White Panda": {"name": "Albino"},
-	"White Tiger": {"name": "Albino"},
-	"Whitesmoke": {"name": "Albino"},
-	"Super Whitesmoke": {"name": "Albino"},
-	"Whitewash": {"name": "Albino"},
-	"100% Het Whitewash": {"name": "Albino"},
-	"66% Het Whitewash": {"name": "Albino"},
-	"50% Het Whitewash": {"name": "Albino"},
-	"Pos Het Whitewash": {"name": "Albino"},
-	"Wild": {"name": "Albino"},
-	"Woma": {"name": "Albino"},
-	"Super Woma": {"name": "Albino"},
-	"Wookie": {"name": "Albino"},
-	"Super Wookie": {"name": "Albino"},
-	"X-treme Gene": {"name": "Albino"},
-	"Super X-treme Gene": {"name": "Albino"},
-	"Xplosive Cream": {"name": "Albino"},
-	"Yellow Belly": {"name": "Albino"},
-	"Super Yellow Belly": {"name": "Albino"},
-	"Yellow Brick Road": {"name": "Albino"},
-	"Yellow Jacket": {"name": "Albino"},
-	"Yellow Snow": {"name": "Albino"},
-	"Zebra Bee": {}
+    "100% Het Albino": {
+        "name": "100% Het Albino"
+    },
+    "100% Het Atomic": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Axanthic": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Bengal": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Black Axanthic": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Black Lace": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Bourgogne Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Burgundy": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Candy": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Caramel Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Citrus Hypo": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Clown": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Crider": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Desert Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Enhancer": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Genetic Stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Ghost (Vesper)": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Goldfinger": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Lavender Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Monarch": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Orange Crush": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Orange Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Patternless": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Peach": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Piebald": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Puzzle": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Rainbow": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Sahara": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Sunset": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Toffee": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Tri-stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Ultramel": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Vesper": {
+        "name": "MorphCalculator.com"
+    },
+    "100% Het Whitewash": {
+        "name": "MorphCalculator.com"
+    },
+    "401 Ball": {
+        "name": "401 Ball"
+    },
+    "50% Het Albino": {
+        "name": "50% Het Albino"
+    },
+    "50% Het Atomic": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Axanthic": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Bengal": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Black Axanthic": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Black Lace": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Bourgogne Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Burgundy": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Candy": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Caramel Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Citrus Hypo": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Clown": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Crider": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Desert Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Enhancer": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Genetic Stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Ghost (Vesper)": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Goldfinger": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Lavender Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Monarch": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Orange Crush": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Orange Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Patternless": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Peach": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Piebald": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Puzzle": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Rainbow": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Sahara": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Sunset": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Toffee": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Tri-stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Ultramel": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Vesper": {
+        "name": "MorphCalculator.com"
+    },
+    "50% Het Whitewash": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Albino": {
+        "name": "66% Het Albino"
+    },
+    "66% Het Atomic": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Axanthic": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Bengal": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Black Axanthic": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Black Lace": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Bourgogne Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Burgundy": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Candy": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Caramel Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Citrus Hypo": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Clown": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Crider": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Desert Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Enhancer": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Genetic Stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Ghost (Vesper)": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Goldfinger": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Lavender Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Monarch": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Orange Crush": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Orange Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Patternless": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Peach": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Piebald": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Puzzle": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Rainbow": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Sahara": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Sunset": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Toffee": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Tri-stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Ultramel": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Vesper": {
+        "name": "MorphCalculator.com"
+    },
+    "66% Het Whitewash": {
+        "name": "MorphCalculator.com"
+    },
+    "8 Ball": {
+        "name": "8 Ball"
+    },
+    "Acid": {
+        "name": "Acid"
+    },
+    "Albino": {
+        "name": "Albino",
+				"gene": "recessive"
+    },
+    "Alpha": {
+        "name": "Alpha"
+    },
+    "Amber Pastel": {
+        "name": "Amber Pastel"
+    },
+    "Amoretti": {
+        "name": "Amoretti"
+    },
+    "Angel Of Death": {
+        "name": "Angel Of Death"
+    },
+    "Aquila": {
+        "name": "Aquila"
+    },
+    "Arid": {
+        "name": "Arid"
+    },
+    "Arroyo": {
+        "name": "Arroyo"
+    },
+    "Asphalt": {
+        "name": "Asphalt"
+    },
+    "Asystole": {
+        "name": "Asystole"
+    },
+    "Atomic": {
+        "name": "Atomic"
+    },
+    "Aurora": {
+        "name": "Aurora"
+    },
+    "Avalanche": {
+        "name": "Avalanche"
+    },
+    "Axanthic": {
+        "name": "Axanthic"
+    },
+    "Baja": {
+        "name": "Baja"
+    },
+    "Bald": {
+        "name": "Bald"
+    },
+    "Bambee": {
+        "name": "MorphCalculator.com"
+    },
+    "Bamboo": {
+        "name": "MorphCalculator.com"
+    },
+    "Banana": {
+        "name": "MorphCalculator.com"
+    },
+    "Banana Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Bazinga": {
+        "name": "MorphCalculator.com"
+    },
+    "Beast": {
+        "name": "MorphCalculator.com"
+    },
+    "Bengal": {
+        "name": "MorphCalculator.com"
+    },
+    "Biancaball": {
+        "name": "MorphCalculator.com"
+    },
+    "Biohazard": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Adder": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Axanthic": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Belly": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Cream": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Fire": {
+        "name": "Black Fire"
+    },
+    "Black Gargoyle": {
+        "name": "Black Gargoyle"
+    },
+    "Black Head": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Lace": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Magic": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Nightmare": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Opal": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Pastel": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Pewter": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Pewter Blast": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Pewterpagne": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Pin": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Pinstripe": {
+        "name": "MorphCalculator.com"
+    },
+    "Black Widow": {
+        "name": "MorphCalculator.com"
+    },
+    "Black-eye Leucistic": {
+        "name": "MorphCalculator.com"
+    },
+    "Black-eye Lucy": {
+        "name": "MorphCalculator.com"
+    },
+    "Black-eyed Leucistic": {
+        "name": "MorphCalculator.com"
+    },
+    "Black-eyed Lucy": {
+        "name": "MorphCalculator.com"
+    },
+    "Blade": {
+        "name": "MorphCalculator.com"
+    },
+    "Blanchi": {
+        "name": "MorphCalculator.com"
+    },
+    "Bling": {
+        "name": "MorphCalculator.com"
+    },
+    "Blitz": {
+        "name": "MorphCalculator.com"
+    },
+    "Blitzkrieg": {
+        "name": "MorphCalculator.com"
+    },
+    "Blizzard": {
+        "name": "MorphCalculator.com"
+    },
+    "Blue-Eyed Lucy (But/But)": {
+        "name": "MorphCalculator.com"
+    },
+    "Blue-Eyed Lucy (But/Les)": {
+        "name": "MorphCalculator.com"
+    },
+    "Blue-Eyed Lucy (But/Moj)": {
+        "name": "MorphCalculator.com"
+    },
+    "Blue-Eyed Lucy (Les/Les)": {
+        "name": "MorphCalculator.com"
+    },
+    "Blue-Eyed Lucy (Moj/Les)": {
+        "name": "MorphCalculator.com"
+    },
+    "Blue-Eyed Lucy (Moj/Moj)": {
+        "name": "MorphCalculator.com"
+    },
+    "Blue-Eyed Lucy (Rus/But)": {
+        "name": "MorphCalculator.com"
+    },
+    "Blue-Eyed Lucy (Rus/Les)": {
+        "name": "MorphCalculator.com"
+    },
+    "Blue-Eyed Lucy (Rus/Moj)": {
+        "name": "MorphCalculator.com"
+    },
+    "Bongo": {
+        "name": "MorphCalculator.com"
+    },
+    "Boom": {
+        "name": "MorphCalculator.com"
+    },
+    "Bourgogne Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "Brass Ball": {
+        "name": "MorphCalculator.com"
+    },
+    "Brite": {
+        "name": "MorphCalculator.com"
+    },
+    "Brown Back": {
+        "name": "MorphCalculator.com"
+    },
+    "Bubble Gum": {
+        "name": "MorphCalculator.com"
+    },
+    "Bubblegum": {
+        "name": "MorphCalculator.com"
+    },
+    "Bumble Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Bumble Belly": {
+        "name": "MorphCalculator.com"
+    },
+    "Burgundy": {
+        "name": "MorphCalculator.com"
+    },
+    "Bush Fire": {
+        "name": "MorphCalculator.com"
+    },
+    "Butter": {
+        "name": "MorphCalculator.com"
+    },
+    "Butter Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Butter Belly": {
+        "name": "MorphCalculator.com"
+    },
+    "Butter Daddy": {
+        "name": "MorphCalculator.com"
+    },
+    "Butter Fly": {
+        "name": "MorphCalculator.com"
+    },
+    "Buttered Rum": {
+        "name": "MorphCalculator.com"
+    },
+    "Butterfly": {
+        "name": "MorphCalculator.com"
+    },
+    "Buttery Nipple": {
+        "name": "MorphCalculator.com"
+    },
+    "Buzz": {
+        "name": "MorphCalculator.com"
+    },
+    "Cajun": {
+        "name": "MorphCalculator.com"
+    },
+    "Cali Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Calico": {
+        "name": "MorphCalculator.com"
+    },
+    "Calico Power": {
+        "name": "MorphCalculator.com"
+    },
+    "Calider": {
+        "name": "MorphCalculator.com"
+    },
+    "Camarillo": {
+        "name": "MorphCalculator.com"
+    },
+    "Camo": {
+        "name": "MorphCalculator.com"
+    },
+    "Camouflage": {
+        "name": "MorphCalculator.com"
+    },
+    "Candied Clown": {
+        "name": "MorphCalculator.com"
+    },
+    "Candino": {
+        "name": "MorphCalculator.com"
+    },
+    "Candy": {
+        "name": "MorphCalculator.com"
+    },
+    "Caramel": {
+        "name": "MorphCalculator.com"
+    },
+    "Caramel Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "Caramel Glow": {
+        "name": "MorphCalculator.com"
+    },
+    "Caravanah": {
+        "name": "MorphCalculator.com"
+    },
+    "Cg": {
+        "name": "MorphCalculator.com"
+    },
+    "Chainsaw": {
+        "name": "MorphCalculator.com"
+    },
+    "Champagne": {
+        "name": "MorphCalculator.com"
+    },
+    "Cheetah": {
+        "name": "MorphCalculator.com"
+    },
+    "Chernobyl": {
+        "name": "MorphCalculator.com"
+    },
+    "Cherry Bomb": {
+        "name": "MorphCalculator.com"
+    },
+    "Chetah": {
+        "name": "MorphCalculator.com"
+    },
+    "Chocolate": {
+        "name": "MorphCalculator.com"
+    },
+    "Chocolate Blast": {
+        "name": "MorphCalculator.com"
+    },
+    "Cinna Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Cinna Belly": {
+        "name": "MorphCalculator.com"
+    },
+    "Cinna Cal": {
+        "name": "MorphCalculator.com"
+    },
+    "Cinna Mel": {
+        "name": "MorphCalculator.com"
+    },
+    "Cinna Pin": {
+        "name": "MorphCalculator.com"
+    },
+    "Cinna Spin": {
+        "name": "MorphCalculator.com"
+    },
+    "Cinnamel": {
+        "name": "MorphCalculator.com"
+    },
+    "Cinnamon": {
+        "name": "MorphCalculator.com"
+    },
+    "Cinny": {
+        "name": "MorphCalculator.com"
+    },
+    "Cinny Ferno": {
+        "name": "MorphCalculator.com"
+    },
+    "Citrus Hypo": {
+        "name": "MorphCalculator.com"
+    },
+    "Citrus Pastel": {
+        "name": "MorphCalculator.com"
+    },
+    "Classic": {
+        "name": "MorphCalculator.com"
+    },
+    "Clown": {
+        "name": "MorphCalculator.com"
+    },
+    "Coffee": {
+        "name": "MorphCalculator.com"
+    },
+    "Confusion": {
+        "name": "MorphCalculator.com"
+    },
+    "Congo": {
+        "name": "MorphCalculator.com"
+    },
+    "Coral Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Coral Glow": {
+        "name": "MorphCalculator.com"
+    },
+    "Coral Reef": {
+        "name": "MorphCalculator.com"
+    },
+    "Corcra": {
+        "name": "MorphCalculator.com"
+    },
+    "Cougar": {
+        "name": "MorphCalculator.com"
+    },
+    "Cream Diamond": {
+        "name": "MorphCalculator.com"
+    },
+    "Creed": {
+        "name": "MorphCalculator.com"
+    },
+    "Crider": {
+        "name": "MorphCalculator.com"
+    },
+    "Cryptic": {
+        "name": "MorphCalculator.com"
+    },
+    "Crystal": {
+        "name": "MorphCalculator.com"
+    },
+    "Cypress": {
+        "name": "MorphCalculator.com"
+    },
+    "Daddy": {
+        "name": "MorphCalculator.com"
+    },
+    "Dark Side": {
+        "name": "MorphCalculator.com"
+    },
+    "Darth Fader": {
+        "name": "MorphCalculator.com"
+    },
+    "Deep Purple Passion": {
+        "name": "MorphCalculator.com"
+    },
+    "Desert": {
+        "name": "MorphCalculator.com"
+    },
+    "Desert Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "Diablo": {
+        "name": "MorphCalculator.com"
+    },
+    "Diesel": {
+        "name": "MorphCalculator.com"
+    },
+    "Dinker": {
+        "name": "MorphCalculator.com"
+    },
+    "Disco": {
+        "name": "MorphCalculator.com"
+    },
+    "Disco Inferno": {
+        "name": "MorphCalculator.com"
+    },
+    "Dot": {
+        "name": "MorphCalculator.com"
+    },
+    "Dota": {
+        "name": "MorphCalculator.com"
+    },
+    "Dragon Fly": {
+        "name": "MorphCalculator.com"
+    },
+    "Dreamsicle": {
+        "name": "MorphCalculator.com"
+    },
+    "Ebony": {
+        "name": "MorphCalculator.com"
+    },
+    "Egypt": {
+        "name": "MorphCalculator.com"
+    },
+    "Ellie Ball": {
+        "name": "MorphCalculator.com"
+    },
+    "Emperor Pin": {
+        "name": "MorphCalculator.com"
+    },
+    "Emperor Pinstripe": {
+        "name": "MorphCalculator.com"
+    },
+    "Enchi": {
+        "name": "MorphCalculator.com"
+    },
+    "Enchiferno": {
+        "name": "MorphCalculator.com"
+    },
+    "Enhancer": {
+        "name": "MorphCalculator.com"
+    },
+    "Epic": {
+        "name": "MorphCalculator.com"
+    },
+    "Eraserhead": {
+        "name": "MorphCalculator.com"
+    },
+    "Exo-lbb": {
+        "name": "MorphCalculator.com"
+    },
+    "Fader": {
+        "name": "MorphCalculator.com"
+    },
+    "Fire": {
+        "name": "MorphCalculator.com"
+    },
+    "Fire Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Fire Fly": {
+        "name": "MorphCalculator.com"
+    },
+    "Firefly": {
+        "name": "MorphCalculator.com"
+    },
+    "Firemon": {
+        "name": "MorphCalculator.com"
+    },
+    "Firing Pin": {
+        "name": "MorphCalculator.com"
+    },
+    "Flame": {
+        "name": "MorphCalculator.com"
+    },
+    "Flare": {
+        "name": "MorphCalculator.com"
+    },
+    "Floma": {
+        "name": "MorphCalculator.com"
+    },
+    "Freeway": {
+        "name": "MorphCalculator.com"
+    },
+    "Frostbite": {
+        "name": "MorphCalculator.com"
+    },
+    "Fusion": {
+        "name": "MorphCalculator.com"
+    },
+    "G-stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "Garcia": {
+        "name": "MorphCalculator.com"
+    },
+    "Gargoyle": {
+        "name": "MorphCalculator.com"
+    },
+    "Gargoyle (Cin/HRA)": {
+        "name": "MorphCalculator.com"
+    },
+    "Gargoyle (LBB/BP)": {
+        "name": "MorphCalculator.com"
+    },
+    "Genetic Banded": {
+        "name": "MorphCalculator.com"
+    },
+    "Genetic Black Back": {
+        "name": "MorphCalculator.com"
+    },
+    "Genetic Reduced": {
+        "name": "MorphCalculator.com"
+    },
+    "Genetic Stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "GHI": {
+        "name": "MorphCalculator.com"
+    },
+    "Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "Ghost (Vesper)": {
+        "name": "MorphCalculator.com"
+    },
+    "Ghost Killa": {
+        "name": "MorphCalculator.com"
+    },
+    "Ghostbuster": {
+        "name": "MorphCalculator.com"
+    },
+    "Goblin": {
+        "name": "MorphCalculator.com"
+    },
+    "Gold Blush": {
+        "name": "MorphCalculator.com"
+    },
+    "Golden Rod": {
+        "name": "MorphCalculator.com"
+    },
+    "Goldfinger": {
+        "name": "MorphCalculator.com"
+    },
+    "Graffiti": {
+        "name": "MorphCalculator.com"
+    },
+    "Granite": {
+        "name": "MorphCalculator.com"
+    },
+    "Gravel": {
+        "name": "MorphCalculator.com"
+    },
+    "Gray Matter": {
+        "name": "MorphCalculator.com"
+    },
+    "Green Pastel": {
+        "name": "MorphCalculator.com"
+    },
+    "Grenade": {
+        "name": "MorphCalculator.com"
+    },
+    "Grey Matter": {
+        "name": "MorphCalculator.com"
+    },
+    "Grim": {
+        "name": "MorphCalculator.com"
+    },
+    "Gypsy": {
+        "name": "MorphCalculator.com"
+    },
+    "Harlequin": {
+        "name": "MorphCalculator.com"
+    },
+    "Havoc": {
+        "name": "MorphCalculator.com"
+    },
+    "Het Daddy": {
+        "name": "MorphCalculator.com"
+    },
+    "Het Red": {
+        "name": "MorphCalculator.com"
+    },
+    "Het Red Axanthic": {
+        "name": "MorphCalculator.com"
+    },
+    "Het Russo": {
+        "name": "MorphCalculator.com"
+    },
+    "Het Russo Leucistic": {
+        "name": "MorphCalculator.com"
+    },
+    "Het Scaleless": {
+        "name": "MorphCalculator.com"
+    },
+    "Hidden Gene Woma": {
+        "name": "MorphCalculator.com"
+    },
+    "Highway": {
+        "name": "MorphCalculator.com"
+    },
+    "Honey": {
+        "name": "MorphCalculator.com"
+    },
+    "Honey Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Hornet": {
+        "name": "MorphCalculator.com"
+    },
+    "Hot Chocolate": {
+        "name": "MorphCalculator.com"
+    },
+    "Hot Sauce": {
+        "name": "MorphCalculator.com"
+    },
+    "Huffman": {
+        "name": "MorphCalculator.com"
+    },
+    "Humble Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Hurricane": {
+        "name": "MorphCalculator.com"
+    },
+    "Hydra": {
+        "name": "MorphCalculator.com"
+    },
+    "Hypo": {
+        "name": "MorphCalculator.com"
+    },
+    "Hypomelanistic": {
+        "name": "MorphCalculator.com"
+    },
+    "Inferno": {
+        "name": "MorphCalculator.com"
+    },
+    "Invisi-ball": {
+        "name": "MorphCalculator.com"
+    },
+    "Invisiball": {
+        "name": "MorphCalculator.com"
+    },
+    "Ivory": {
+        "name": "MorphCalculator.com"
+    },
+    "Jedi": {
+        "name": "MorphCalculator.com"
+    },
+    "Jigsaw": {
+        "name": "MorphCalculator.com"
+    },
+    "Joppa": {
+        "name": "MorphCalculator.com"
+    },
+    "Josie": {
+        "name": "MorphCalculator.com"
+    },
+    "Jungle Woma": {
+        "name": "MorphCalculator.com"
+    },
+    "Kalabash": {
+        "name": "MorphCalculator.com"
+    },
+    "Kalabash Reduction Gene": {
+        "name": "MorphCalculator.com"
+    },
+    "Kalahari": {
+        "name": "MorphCalculator.com"
+    },
+    "Karma": {
+        "name": "MorphCalculator.com"
+    },
+    "Killer Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Killer Blast": {
+        "name": "MorphCalculator.com"
+    },
+    "Killer Clown": {
+        "name": "MorphCalculator.com"
+    },
+    "Killer Hornet": {
+        "name": "MorphCalculator.com"
+    },
+    "Killer Pied": {
+        "name": "MorphCalculator.com"
+    },
+    "Killer Queenbee": {
+        "name": "MorphCalculator.com"
+    },
+    "Killer Queenspin": {
+        "name": "MorphCalculator.com"
+    },
+    "Killer Spinner": {
+        "name": "MorphCalculator.com"
+    },
+    "King Pin": {
+        "name": "MorphCalculator.com"
+    },
+    "King Spin": {
+        "name": "MorphCalculator.com"
+    },
+    "Kingpin": {
+        "name": "MorphCalculator.com"
+    },
+    "KRG": {
+        "name": "MorphCalculator.com"
+    },
+    "Lace": {
+        "name": "MorphCalculator.com"
+    },
+    "Lace Black Back": {
+        "name": "MorphCalculator.com"
+    },
+    "Latte": {
+        "name": "MorphCalculator.com"
+    },
+    "Lavender": {
+        "name": "MorphCalculator.com"
+    },
+    "Lavender Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "Lavender Snow": {
+        "name": "MorphCalculator.com"
+    },
+    "Leatherface": {
+        "name": "MorphCalculator.com"
+    },
+    "Leche": {
+        "name": "MorphCalculator.com"
+    },
+    "Lemon Blast": {
+        "name": "MorphCalculator.com"
+    },
+    "Lemon Pastel": {
+        "name": "MorphCalculator.com"
+    },
+    "Lemonback": {
+        "name": "MorphCalculator.com"
+    },
+    "Leopard": {
+        "name": "MorphCalculator.com"
+    },
+    "Leopard Extra": {
+        "name": "MorphCalculator.com"
+    },
+    "Leopard Pied": {
+        "name": "MorphCalculator.com"
+    },
+    "Lesser": {
+        "name": "MorphCalculator.com"
+    },
+    "Lesser Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Lesser Platinum": {
+        "name": "MorphCalculator.com"
+    },
+    "Lightning Bug": {
+        "name": "MorphCalculator.com"
+    },
+    "Lightning Pied": {
+        "name": "MorphCalculator.com"
+    },
+    "Lithium": {
+        "name": "MorphCalculator.com"
+    },
+    "Lithium Blaze": {
+        "name": "MorphCalculator.com"
+    },
+    "Lithium Fire": {
+        "name": "MorphCalculator.com"
+    },
+    "Lori": {
+        "name": "MorphCalculator.com"
+    },
+    "Lucifer": {
+        "name": "MorphCalculator.com"
+    },
+    "Mahogany": {
+        "name": "MorphCalculator.com"
+    },
+    "Malum": {
+        "name": "MorphCalculator.com"
+    },
+    "Mancer": {
+        "name": "MorphCalculator.com"
+    },
+    "Marble": {
+        "name": "MorphCalculator.com"
+    },
+    "Mario": {
+        "name": "MorphCalculator.com"
+    },
+    "Marvel": {
+        "name": "MorphCalculator.com"
+    },
+    "Melt": {
+        "name": "MorphCalculator.com"
+    },
+    "Mephisto": {
+        "name": "MorphCalculator.com"
+    },
+    "Mercury": {
+        "name": "MorphCalculator.com"
+    },
+    "Mercury Ball": {
+        "name": "MorphCalculator.com"
+    },
+    "Metallica": {
+        "name": "MorphCalculator.com"
+    },
+    "Mimosa": {
+        "name": "MorphCalculator.com"
+    },
+    "Mocha": {
+        "name": "MorphCalculator.com"
+    },
+    "Mochi Bumble Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Mojave": {
+        "name": "MorphCalculator.com"
+    },
+    "Mojito": {
+        "name": "MorphCalculator.com"
+    },
+    "Monarch": {
+        "name": "MorphCalculator.com"
+    },
+    "Mota": {
+        "name": "MorphCalculator.com"
+    },
+    "Motley Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Mudball": {
+        "name": "MorphCalculator.com"
+    },
+    "Mystic": {
+        "name": "MorphCalculator.com"
+    },
+    "Mystic Crystal": {
+        "name": "MorphCalculator.com"
+    },
+    "Mystic Potion": {
+        "name": "MorphCalculator.com"
+    },
+    "Nanny": {
+        "name": "MorphCalculator.com"
+    },
+    "Napalm": {
+        "name": "MorphCalculator.com"
+    },
+    "Nazca": {
+        "name": "MorphCalculator.com"
+    },
+    "Night Crawler": {
+        "name": "MorphCalculator.com"
+    },
+    "Normal": {
+        "name": "Normal",
+				"gene": "dominant"
+    },
+    "Nova": {
+        "name": "MorphCalculator.com"
+    },
+    "Nr Mandarin": {
+        "name": "MorphCalculator.com"
+    },
+    "Nuclear": {
+        "name": "MorphCalculator.com"
+    },
+    "Nuclear Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Nuclear Champagne": {
+        "name": "MorphCalculator.com"
+    },
+    "Nuclear Pinstripe": {
+        "name": "MorphCalculator.com"
+    },
+    "Nuclear Spider": {
+        "name": "MorphCalculator.com"
+    },
+    "Nuclear Spinner": {
+        "name": "MorphCalculator.com"
+    },
+    "Oasis": {
+        "name": "MorphCalculator.com"
+    },
+    "Ocelot": {
+        "name": "MorphCalculator.com"
+    },
+    "Odium": {
+        "name": "MorphCalculator.com"
+    },
+    "Onyx": {
+        "name": "MorphCalculator.com"
+    },
+    "Orange Belly": {
+        "name": "MorphCalculator.com"
+    },
+    "Orange Burst": {
+        "name": "MorphCalculator.com"
+    },
+    "Orange Crush": {
+        "name": "MorphCalculator.com"
+    },
+    "Orange Dream": {
+        "name": "MorphCalculator.com"
+    },
+    "Orange Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "Orange Glow": {
+        "name": "MorphCalculator.com"
+    },
+    "Orange Hypo": {
+        "name": "MorphCalculator.com"
+    },
+    "Orion": {
+        "name": "MorphCalculator.com"
+    },
+    "Other Trait": {
+        "name": "MorphCalculator.com"
+    },
+    "Paint": {
+        "name": "MorphCalculator.com"
+    },
+    "Panda Pied": {
+        "name": "MorphCalculator.com"
+    },
+    "Paradox": {
+        "name": "MorphCalculator.com"
+    },
+    "Pastave": {
+        "name": "MorphCalculator.com"
+    },
+    "Pastave Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Pastel": {
+        "name": "MorphCalculator.com"
+    },
+    "Pastel Cyrstal": {
+        "name": "MorphCalculator.com"
+    },
+    "Pastel Jungle": {
+        "name": "MorphCalculator.com"
+    },
+    "Patternless": {
+        "name": "MorphCalculator.com"
+    },
+    "Peach": {
+        "name": "MorphCalculator.com"
+    },
+    "Pearl": {
+        "name": "MorphCalculator.com"
+    },
+    "Perignon": {
+        "name": "MorphCalculator.com"
+    },
+    "Pewter": {
+        "name": "MorphCalculator.com"
+    },
+    "Pewter Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Pewter Belly": {
+        "name": "MorphCalculator.com"
+    },
+    "Pewter Blast": {
+        "name": "MorphCalculator.com"
+    },
+    "Pewterpagne": {
+        "name": "MorphCalculator.com"
+    },
+    "Phantom": {
+        "name": "MorphCalculator.com"
+    },
+    "Phantom Potion": {
+        "name": "MorphCalculator.com"
+    },
+    "Philistine": {
+        "name": "MorphCalculator.com"
+    },
+    "Phoenix": {
+        "name": "MorphCalculator.com"
+    },
+    "Php": {
+        "name": "MorphCalculator.com"
+    },
+    "Picasso": {
+        "name": "MorphCalculator.com"
+    },
+    "Pie Bald": {
+        "name": "MorphCalculator.com"
+    },
+    "Piebald": {
+        "name": "MorphCalculator.com"
+    },
+    "Pied": {
+        "name": "MorphCalculator.com"
+    },
+    "Pinstripe": {
+        "name": "MorphCalculator.com"
+    },
+    "Pinto Pied": {
+        "name": "MorphCalculator.com"
+    },
+    "Platiator": {
+        "name": "MorphCalculator.com"
+    },
+    "Platinum": {
+        "name": "MorphCalculator.com"
+    },
+    "Platty Daddy": {
+        "name": "MorphCalculator.com"
+    },
+    "Polar Ball": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Cryptic": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Dinker": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Fader": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Genetic Reduced": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Albino": {
+        "name": "Pos Het Albino"
+    },
+    "Pos Het Atomic": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Axanthic": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Bengal": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Black Axanthic": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Black Lace": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Bourgogne Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Burgundy": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Candy": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Caramel Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Citrus Hypo": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Clown": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Crider": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Desert Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Enhancer": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Genetic Stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Ghost (Vesper)": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Goldfinger": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Lavender Albino": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Monarch": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Orange Crush": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Orange Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Patternless": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Peach": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Piebald": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Puzzle": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Rainbow": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Sahara": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Sunset": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Toffee": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Tri-stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Ultramel": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Vesper": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Het Whitewash": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Other Trait": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Paradox": {
+        "name": "MorphCalculator.com"
+    },
+    "Pos Pastel Jungle": {
+        "name": "MorphCalculator.com"
+    },
+    "Powerball": {
+        "name": "MorphCalculator.com"
+    },
+    "Puma": {
+        "name": "MorphCalculator.com"
+    },
+    "Pumpkin Pied": {
+        "name": "MorphCalculator.com"
+    },
+    "Purple Passion": {
+        "name": "MorphCalculator.com"
+    },
+    "Puzzle": {
+        "name": "MorphCalculator.com"
+    },
+    "Pyro Pied": {
+        "name": "MorphCalculator.com"
+    },
+    "Quake": {
+        "name": "MorphCalculator.com"
+    },
+    "Queen Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Queen Pin": {
+        "name": "MorphCalculator.com"
+    },
+    "Queen Spin": {
+        "name": "MorphCalculator.com"
+    },
+    "Quint": {
+        "name": "MorphCalculator.com"
+    },
+    "Radioactive": {
+        "name": "MorphCalculator.com"
+    },
+    "Rainbow": {
+        "name": "MorphCalculator.com"
+    },
+    "Rainbow Banana": {
+        "name": "MorphCalculator.com"
+    },
+    "Raven Claw": {
+        "name": "MorphCalculator.com"
+    },
+    "Real": {
+        "name": "MorphCalculator.com"
+    },
+    "Reaper": {
+        "name": "MorphCalculator.com"
+    },
+    "Red Axanthic": {
+        "name": "MorphCalculator.com"
+    },
+    "Red Devil": {
+        "name": "MorphCalculator.com"
+    },
+    "Red Spectrum": {
+        "name": "MorphCalculator.com"
+    },
+    "Red Stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "Rio": {
+        "name": "MorphCalculator.com"
+    },
+    "Rodeo": {
+        "name": "MorphCalculator.com"
+    },
+    "Russo": {
+        "name": "MorphCalculator.com"
+    },
+    "Russo Het Leucistic": {
+        "name": "MorphCalculator.com"
+    },
+    "Russo Leucistic": {
+        "name": "MorphCalculator.com"
+    },
+    "Sable": {
+        "name": "MorphCalculator.com"
+    },
+    "Saffron": {
+        "name": "MorphCalculator.com"
+    },
+    "Sahara": {
+        "name": "MorphCalculator.com"
+    },
+    "Sandblast": {
+        "name": "MorphCalculator.com"
+    },
+    "Satin": {
+        "name": "MorphCalculator.com"
+    },
+    "Sauce": {
+        "name": "MorphCalculator.com"
+    },
+    "Savannah": {
+        "name": "MorphCalculator.com"
+    },
+    "Savannah Pewter": {
+        "name": "MorphCalculator.com"
+    },
+    "Scaleless": {
+        "name": "MorphCalculator.com"
+    },
+    "Scaleless Head": {
+        "name": "MorphCalculator.com"
+    },
+    "Scaleless Het": {
+        "name": "MorphCalculator.com"
+    },
+    "Scream": {
+        "name": "MorphCalculator.com"
+    },
+    "Sentinel": {
+        "name": "MorphCalculator.com"
+    },
+    "Shatter": {
+        "name": "MorphCalculator.com"
+    },
+    "Sherbert Fly": {
+        "name": "MorphCalculator.com"
+    },
+    "Shinobi": {
+        "name": "MorphCalculator.com"
+    },
+    "Shrapnel": {
+        "name": "MorphCalculator.com"
+    },
+    "Shredder": {
+        "name": "MorphCalculator.com"
+    },
+    "Silver Bullet": {
+        "name": "MorphCalculator.com"
+    },
+    "Silver Streak": {
+        "name": "MorphCalculator.com"
+    },
+    "Silver Surfer": {
+        "name": "MorphCalculator.com"
+    },
+    "Siren": {
+        "name": "MorphCalculator.com"
+    },
+    "Snow": {
+        "name": "MorphCalculator.com"
+    },
+    "Solar Flare": {
+        "name": "MorphCalculator.com"
+    },
+    "Sonnet Ball": {
+        "name": "MorphCalculator.com"
+    },
+    "Soul Sucker": {
+        "name": "MorphCalculator.com"
+    },
+    "Spark": {
+        "name": "MorphCalculator.com"
+    },
+    "Special": {
+        "name": "MorphCalculator.com"
+    },
+    "Special Blast": {
+        "name": "MorphCalculator.com"
+    },
+    "Specter": {
+        "name": "MorphCalculator.com"
+    },
+    "Sphere": {
+        "name": "MorphCalculator.com"
+    },
+    "Spider": {
+        "name": "MorphCalculator.com"
+    },
+    "Spied": {
+        "name": "MorphCalculator.com"
+    },
+    "Spinner": {
+        "name": "MorphCalculator.com"
+    },
+    "Spinner Blast": {
+        "name": "MorphCalculator.com"
+    },
+    "Splatter": {
+        "name": "MorphCalculator.com"
+    },
+    "Spotnose": {
+        "name": "MorphCalculator.com"
+    },
+    "Static": {
+        "name": "MorphCalculator.com"
+    },
+    "Static Electricity": {
+        "name": "MorphCalculator.com"
+    },
+    "Sterling": {
+        "name": "MorphCalculator.com"
+    },
+    "Sterling Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Sterling Pastel": {
+        "name": "MorphCalculator.com"
+    },
+    "Sterling Yellow Belly": {
+        "name": "MorphCalculator.com"
+    },
+    "Stinger Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Stinger Blast": {
+        "name": "MorphCalculator.com"
+    },
+    "Stinging Bumble Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Stingless Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Sugar": {
+        "name": "MorphCalculator.com"
+    },
+    "Sulfur": {
+        "name": "MorphCalculator.com"
+    },
+    "Suma": {
+        "name": "MorphCalculator.com"
+    },
+    "Sunglow": {
+        "name": "MorphCalculator.com"
+    },
+    "Sunset": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Acid": {
+        "name": "Super Acid"
+    },
+    "Super Alpha": {
+        "name": "Super Alpha"
+    },
+    "Super Arid": {
+        "name": "Super Arid"
+    },
+    "Super Arroyo": {
+        "name": "Super Arroyo"
+    },
+    "Super Asphalt": {
+        "name": "Super Asphalt"
+    },
+    "Super Avalanche": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Bald": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Bamboo": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Banana": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Biancaball": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Black Adder": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Black Belly": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Black Head": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Black Opal": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Black Pastel": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Black Pewter": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Blade": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Blast": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Bling": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Blitz": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Bongo": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Brite": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Brown Back": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Butter": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Cajun": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Calico": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Champagne": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Chocolate": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Cinnamon": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Citrus Pastel": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Coffee": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Confusion": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Congo": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Coral Glow": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Creed": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Cypress": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Desert": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Diesel": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Disco": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Dot": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Emperor": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Enchi": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Epic": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Exo-lbb": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Fire": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Flame": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Flare": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Fly": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Fusion": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Garcia": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Genetic Banded": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Genetic Black Back": {
+        "name": "MorphCalculator.com"
+    },
+    "Super GHI": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Glow": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Goblin": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Gold Blush": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Granite": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Gravel": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Grim": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Gypsy": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Harlequin": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Hidden Gene Woma": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Honey": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Huffman": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Hurricane": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Hydra": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Inferno": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Jedi": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Joppa": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Josie": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Jungle Woma": {
+        "name": "MorphCalculator.com"
+    },
+    "Super KRG": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Lace": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Lace Black Back": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Lemon Pastel": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Lemonback": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Leopard": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Lesser": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Lori": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Lucifer": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Mahogany": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Malum": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Mancer": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Marble": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Mario": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Marvel": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Melt": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Mocha": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Mojave": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Mota": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Mystic": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Nanny": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Napalm": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Nazca": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Nova": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Nr Mandarin": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Odium": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Orange Belly": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Orange Dream": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Orange Glow": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Paint": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Pastel": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Pewter": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Phantom": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Philistine": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Pinstripe": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Quake": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Radioactive": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Reaper": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Red Stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Russo": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Sable": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Sandblast": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Satin": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Sauce": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Scaleless Head": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Sentinel": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Shatter": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Shinobi": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Shrapnel": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Shredder": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Spark": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Special": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Specter": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Spider": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Splatter": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Spotnose": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Static": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Sugar": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Sulfur": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Toxique": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Trick": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Trojan": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Vanilla": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Victory": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Web": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Whitesmoke": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Woma": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Wookie": {
+        "name": "MorphCalculator.com"
+    },
+    "Super X-treme Gene": {
+        "name": "MorphCalculator.com"
+    },
+    "Super Yellow Belly": {
+        "name": "MorphCalculator.com"
+    },
+    "Superferno": {
+        "name": "MorphCalculator.com"
+    },
+    "Superfly": {
+        "name": "MorphCalculator.com"
+    },
+    "Swarm": {
+        "name": "MorphCalculator.com"
+    },
+    "Sydney Ball": {
+        "name": "MorphCalculator.com"
+    },
+    "Tiger": {
+        "name": "MorphCalculator.com"
+    },
+    "Tiger Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Titan": {
+        "name": "MorphCalculator.com"
+    },
+    "Titanium": {
+        "name": "MorphCalculator.com"
+    },
+    "Toffee": {
+        "name": "MorphCalculator.com"
+    },
+    "Toffino": {
+        "name": "MorphCalculator.com"
+    },
+    "Toxique": {
+        "name": "MorphCalculator.com"
+    },
+    "Tri-stripe": {
+        "name": "MorphCalculator.com"
+    },
+    "Trick": {
+        "name": "MorphCalculator.com"
+    },
+    "Triton": {
+        "name": "MorphCalculator.com"
+    },
+    "Trojan": {
+        "name": "MorphCalculator.com"
+    },
+    "True Ghost": {
+        "name": "MorphCalculator.com"
+    },
+    "Twilight": {
+        "name": "MorphCalculator.com"
+    },
+    "Ultra Fly": {
+        "name": "MorphCalculator.com"
+    },
+    "Ultra Pin": {
+        "name": "MorphCalculator.com"
+    },
+    "Ultrafly": {
+        "name": "MorphCalculator.com"
+    },
+    "Ultramel": {
+        "name": "MorphCalculator.com"
+    },
+    "Ultramelanistic": {
+        "name": "MorphCalculator.com"
+    },
+    "Uranium Blast": {
+        "name": "MorphCalculator.com"
+    },
+    "Urban Camo": {
+        "name": "MorphCalculator.com"
+    },
+    "Vanilla": {
+        "name": "MorphCalculator.com"
+    },
+    "Vanilla Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Vanilla Blast": {
+        "name": "MorphCalculator.com"
+    },
+    "Vanilla Cream": {
+        "name": "MorphCalculator.com"
+    },
+    "Vanilla Scream": {
+        "name": "MorphCalculator.com"
+    },
+    "Vesper": {
+        "name": "MorphCalculator.com"
+    },
+    "Victory": {
+        "name": "MorphCalculator.com"
+    },
+    "Vpi Axanthic": {
+        "name": "MorphCalculator.com"
+    },
+    "Wanna Bee": {
+        "name": "MorphCalculator.com"
+    },
+    "Web": {
+        "name": "MorphCalculator.com"
+    },
+    "White Diamond": {
+        "name": "MorphCalculator.com"
+    },
+    "White Lace": {
+        "name": "MorphCalculator.com"
+    },
+    "White Panda": {
+        "name": "MorphCalculator.com"
+    },
+    "White Tiger": {
+        "name": "MorphCalculator.com"
+    },
+    "Whitesmoke": {
+        "name": "MorphCalculator.com"
+    },
+    "Whitewash": {
+        "name": "MorphCalculator.com"
+    },
+    "Wild": {
+        "name": "MorphCalculator.com"
+    },
+    "Woma": {
+        "name": "MorphCalculator.com"
+    },
+    "Wookie": {
+        "name": "MorphCalculator.com"
+    },
+    "X-treme Gene": {
+        "name": "MorphCalculator.com"
+    },
+    "Xplosive Cream": {
+        "name": "MorphCalculator.com"
+    },
+    "Yellow Belly": {
+        "name": "MorphCalculator.com"
+    },
+    "Yellow Brick Road": {
+        "name": "MorphCalculator.com"
+    },
+    "Yellow Jacket": {
+        "name": "Yellow Jacket"
+    },
+    "Yellow Snow": {
+        "name": "Yellow Snow"
+    },
+    "Zebra Bee": {
+        "name": "Zebra Bee"
+		}
 }
